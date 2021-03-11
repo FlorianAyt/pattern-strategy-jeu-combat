@@ -1,0 +1,3 @@
+# pattern-strategy-jeu-combat
+Petit jeu example d'utilisation du design pattern strategy
+Tous les personnages utilisent la famille d'algo ComportementArme disposant des algos ComportementHache,ComportementPoignard ....
